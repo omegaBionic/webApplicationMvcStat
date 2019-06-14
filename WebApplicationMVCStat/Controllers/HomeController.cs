@@ -25,6 +25,27 @@ namespace WebApplicationMVCStat.Controllers
 
             setI18n(lang);
 
+            var listBac = (from Statistics in db.StatisticsSet
+                           select Statistics.Description).ToList();
+            List<string> listBacDistinct = new List<string>();
+            foreach(var elt in listBac)
+            {
+                bool isPresent = false;
+                foreach(var elm in listBacDistinct)
+                {
+                    if (elm == elt)
+                    {
+                        isPresent = true;
+                        
+                    }
+                }
+                if (!isPresent)
+                {
+                    listBacDistinct.Add(elt);
+                }
+            }
+
+            ViewBag.results = listBacDistinct;
             return View(statisticsSet.ToList());
         }
 

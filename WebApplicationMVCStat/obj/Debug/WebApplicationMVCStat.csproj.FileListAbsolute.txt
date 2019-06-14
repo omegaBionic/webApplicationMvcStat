@@ -120,3 +120,44 @@ C:\Users\omega\Desktop\WebApplicationMVCStat (1)\WebApplicationMVCStat\WebApplic
 C:\Users\omega\Desktop\WebApplicationMVCStat (1)\WebApplicationMVCStat\WebApplicationMVCStat\obj\Debug\WebApplicationMVCStat.csproj.CopyComplete
 C:\Users\omega\Desktop\WebApplicationMVCStat (1)\WebApplicationMVCStat\WebApplicationMVCStat\obj\Debug\WebApplicationMVCStat.dll
 C:\Users\omega\Desktop\WebApplicationMVCStat (1)\WebApplicationMVCStat\WebApplicationMVCStat\obj\Debug\WebApplicationMVCStat.pdb
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\roslyn\csc.exe
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\roslyn\vbc.exe
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\WebApplicationMVCStat.dll.config
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\WebApplicationMVCStat.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\WebApplicationMVCStat.pdb
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\EntityFramework.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\EntityFramework.SqlServer.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\System.Web.Helpers.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\System.Web.Mvc.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\System.Web.Razor.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\System.Web.Webpages.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\System.Web.Webpages.Razor.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\EntityFramework.xml
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\EntityFramework.SqlServer.xml
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\System.Web.Razor.xml
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\System.Web.Webpages.xml
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\System.Web.Webpages.Razor.xml
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\System.Web.Helpers.xml
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\bin\System.Web.Mvc.xml
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\obj\Debug\WebApplicationMVCStat.I18n_en.resources
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\obj\Debug\WebApplicationMVCStat.I18n_fr.resources
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\obj\Debug\WebApplicationMVCStat.csproj.GenerateResource.cache
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\obj\Debug\WebApplicationMVCStat.csproj.CoreCompileInputs.cache
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\obj\Debug\WebApplicationMVCStat.csproj.CopyComplete
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\obj\Debug\WebApplicationMVCStat.dll
+C:\Users\Noctis\Source\Repos\omegaBionic\webApplicationMvcStat\WebApplicationMVCStat\obj\Debug\WebApplicationMVCStat.pdb
