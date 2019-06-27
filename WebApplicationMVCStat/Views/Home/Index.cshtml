@@ -13,33 +13,7 @@
 
 <h2>@ViewData["StatTitle"]</h2>
 <div id="jsGrid"></div>
-<table class="table">
-
-    <tr>
-        <th>
-            @ViewData["Result"]
-            <select id="filterResults">
-                @foreach (string item in ViewBag.results)
-                {
-
-                    <option>
-                        @item
-                    </option>
-                }
-            </select>
-        </th>
-        <th>
-            @ViewData["Score"]
-            <input placeholder="between that" id="filterScoreLower" type="number" onchange="filterScore" />
-            <input placeholder="and that" id="filterScoreUpper" type="number" onchange="filterScore" />
-        </th>
-        <th>
-            @ViewData["Academy"]
-            <input placeholder="filter" id="filter" type="text" onchange="filterResults" />
-        </th>
-
-    </tr>
-
+<table id="tb_hidden" hidden="hidden">
     @foreach (var item in Model)
     {
 
@@ -51,61 +25,165 @@
                 @Html.DisplayFor(modelItem => item.Score) %
             </td>
             <td>
-                @ViewData["Academy"] @Html.DisplayFor(modelItem => item.Academy.Name) @ViewData["Area"]  @Html.DisplayFor(modelItem => item.Academy.Area)
+                @Html.DisplayFor(modelItem => item.Academy.Name) @ViewData["Area"]  @Html.DisplayFor(modelItem => item.Academy.Area)
             </td>
 
         </tr>
     }
+</table>
+<table id="tb_top" class="table">
 
-    <p>
-        @ViewData["Introduction"]
+    <tr>
+        <th>
+            Résultats
+            <select id="filterResults" onchange="sortByResult()">
+                <option>
+                    Filtrer
+                </option>
+                @foreach (string item in ViewBag.results)
+                {
 
-    </p>
+                    <option>
+                        @item
+                    </option>
+                }
+            </select>
+        </th>
+        <th>
+            Score
+            <input placeholder="between that" id="filterScoreLower" type="number" onchange="filterByScoreLow()" />
+            <input placeholder="and that" id="filterScoreUpper" type="number" onchange="filterByScoreHigh()" />
+        </th>
+        <th>
+            Académies
+            <input placeholder="filter" id="filter" type="text" onchange="sortByAcademy()" />
+        </th>
+
+    </tr>
+</table>    
+<p>
+    @ViewData["Introduction"]
+
+</p>
+
+<table id="tb_result" class="table">
+    <tbody>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Score) %
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Academy.Name) @ViewData["Area"]  @Html.DisplayFor(modelItem => item.Academy.Area)
+                </td>
+
+            </tr>
+        }
+    </tbody>
+
 
 </table>
 
 
-<link type="text/css" rel="stylesheet" href="~/Content/grid/grid.min.css" />
-
-<script type="text/javascript" src="~/Scripts/grid/grid.min.js"></script>
-
-
 
 <script>
-    var clients = [
-        { "Name": "Otto Clay", "Age": 25, "Country": 1, "Address": "Ap #897-1459 Quam Avenue", "Married": false },
-        { "Name": "Connor Johnston", "Age": 45, "Country": 2, "Address": "Ap #370-4647 Dis Av.", "Married": true },
-        { "Name": "Lacey Hess", "Age": 29, "Country": 3, "Address": "Ap #365-8835 Integer St.", "Married": false },
-        { "Name": "Timothy Henson", "Age": 56, "Country": 1, "Address": "911-5143 Luctus Ave", "Married": true },
-        { "Name": "Ramona Benton", "Age": 32, "Country": 3, "Address": "Ap #614-689 Vehicula Street", "Married": false }
-    ];
+    var listBeforeSort = document.getElementById("tb_hidden");
+    function sortByResult() {
+        var htmlToShow = "";
+        var listResult = listBeforeSort.getElementsByTagName("tr");
+        var sorter = document.getElementById("filterResults");
+        var strSorter = sorter.options[sorter.selectedIndex].text;
+        if (!strSorter.includes("Filtrer")) {
+            for (var i = 0; i < listResult.length; i++) {
+                if (listResult[i].getElementsByTagName("td")[0].textContent.includes(strSorter)) {
+                    htmlToShow += "<tr>" + listResult[i].innerHTML + "</tr>";
+                }
+            }
+            document.getElementById("tb_result").innerHTML = "";
+            document.getElementById("tb_result").innerHTML = htmlToShow;
+        } else {
+            document.getElementById("tb_result").innerHTML = listBeforeSort.innerHTML;
+        }
+    }
 
-    var countries = [
-        { Name: "", Id: 0 },
-        { Name: "United States", Id: 1 },
-        { Name: "Canada", Id: 2 },
-        { Name: "United Kingdom", Id: 3 }
-    ];
+    function sortByAcademy() {
+        var htmlToShow = "";
+        var listResult = listBeforeSort.getElementsByTagName("tr");
+        var sorter = document.getElementById("filter");
+        var strSorter = sorter.value;
+        if (!strSorter == "") {
+            for (var i = 0; i < listResult.length; i++) {
+                if (listResult[i].getElementsByTagName("td")[2].textContent.includes(strSorter)) {
+                    htmlToShow += "<tr>" + listResult[i].innerHTML + "</tr>";
+                }
+            }
+            document.getElementById("tb_result").innerHTML = "";
+            document.getElementById("tb_result").innerHTML = htmlToShow;
+        } else {
+            document.getElementById("tb_result").innerHTML = listBeforeSort.innerHTML;
+        }
+    }
 
-    $("#jsGrid").jsGrid({
-        width: "100%",
-        height: "400px",
+    function filterByScoreLow() {
+        var htmlToShow = "";
+        var listResult = listBeforeSort.getElementsByTagName("tr");
+        var sorterLow = document.getElementById("filterScoreLower");
+        var strSorterLow = sorterLow.value.split(" ")[0].replace(",", ".");
+        var sorterHigh = document.getElementById("filterScoreUpper");
+        var strSorterHigh = sorterHigh.value.split(" ")[0].replace(",", ".");
+        console.log(parseInt(strSorterLow));
+        if (!strSorterLow == "") {
+            for (var i = 0; i < listResult.length; i++) {
+                var val = parseInt(listResult[i].getElementsByTagName("td")[1].textContent.split(",")[0] + "." + listResult[i].getElementsByTagName("td")[1].textContent.split(",")[1]);
+                if (strSorterHigh != "") {
+                    if (val > strSorterLow && val < strSorterHigh) {
+                        htmlToShow += "<tr>" + listResult[i].innerHTML + "</tr>";
+                    }
+                } else {
+                    if (val > strSorterLow) {
+                        htmlToShow += "<tr>" + listResult[i].innerHTML + "</tr>";
+                    }
+                }
+            }
+            document.getElementById("tb_result").innerHTML = "";
+            document.getElementById("tb_result").innerHTML = htmlToShow;
+        } else {
+            document.getElementById("tb_result").innerHTML = listBeforeSort.innerHTML;
+        }
+    }
 
-        inserting: true,
-        editing: true,
-        sorting: true,
-        paging: true,
+    function filterByScoreHigh() {
+        var htmlToShow = "";
+        var listResult = listBeforeSort.getElementsByTagName("tr");
+        var sorterLow = document.getElementById("filterScoreLower");
+        var strSorterLow = sorterLow.value;
+        var sorterHigh = document.getElementById("filterScoreUpper");
+        var strSorterHigh = sorterHigh.value;
+        console.log(strSorterLow);
+        if (!strSorterHigh == "") {
+            for (var i = 0; i < listResult.length; i++) {
+                var val = parseInt(listResult[i].getElementsByTagName("td")[1].textContent.split(",")[0] + "." + listResult[i].getElementsByTagName("td")[1].textContent.split(",")[1]);
+                if (strSorterLow != "") {
+                    if (val > strSorterLow && val < strSorterHigh) {
+                        htmlToShow += "<tr>" + listResult[i].innerHTML + "</tr>";
+                    }
+                } else {
+                    if (val < strSorterHigh) {
+                        htmlToShow += "<tr>" + listResult[i].innerHTML + "</tr>";
+                    }
+                }
+            }
+            document.getElementById("tb_result").innerHTML = "";
+            document.getElementById("tb_result").innerHTML = htmlToShow;
+        } else {
+            document.getElementById("tb_result").innerHTML = listBeforeSort.innerHTML;
+        }
+    }
 
-        data: clients,
-
-        fields: [
-            { name: "Name", type: "text", width: 150, validate: "required" },
-            { name: "Age", type: "number", width: 50 },
-            { name: "Address", type: "text", width: 200 },
-            { name: "Country", type: "select", items: countries, valueField: "Id", textField: "Name" },
-            { name: "Married", type: "checkbox", title: "Is Married", sorting: false },
-            { type: "control" }
-        ]
-    });
 </script>
 
