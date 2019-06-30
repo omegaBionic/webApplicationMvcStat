@@ -1,0 +1,525 @@
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\MvcAuth.dll.config
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\MvcAuth.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\MvcAuth.pdb
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\csc.exe
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\csc.exe.config
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\csc.rsp
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\csi.exe
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\csi.exe.config
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\csi.rsp
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.AppContext.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Console.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.IO.Compression.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Net.Http.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Net.Sockets.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.ValueTuple.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Xml.XPath.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\vbc.exe
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\vbc.exe.config
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\vbc.rsp
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\VBCSCompiler.exe
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Antlr3.Runtime.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\EntityFramework.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\EntityFramework.SqlServer.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Newtonsoft.Json.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Owin.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.Helpers.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.Mvc.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.Optimization.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.Razor.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.WebPages.Deployment.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.WebPages.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.WebPages.Razor.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\WebGrease.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Newtonsoft.Json.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.Helpers.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.Mvc.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.Razor.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.WebPages.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.WebPages.Deployment.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.WebPages.Razor.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\System.Web.Optimization.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Antlr3.Runtime.pdb
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\EntityFramework.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\EntityFramework.SqlServer.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\System.Web.Razor.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\EntityFramework.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\obj\Debug\MvcAuth.csprojAssemblyReference.cache
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\obj\Debug\MvcAuth.csproj.CoreCompileInputs.cache
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\obj\Debug\MvcAuth.csproj.CopyComplete
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\obj\Debug\MvcAuth.dll
+C:\Users\quentin\Documents\Visual Studio 2017\projet\MvcAuth\MvcAuth\obj\Debug\MvcAuth.pdb
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\MvcAuth.dll.config
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\MvcAuth.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\MvcAuth.pdb
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\csc.exe
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\csc.exe.config
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\csc.rsp
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\csi.exe
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\csi.exe.config
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\csi.rsp
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.AppContext.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Console.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.IO.Compression.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Net.Http.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.ValueTuple.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\vbc.exe
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\vbc.exe.config
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\vbc.rsp
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\VBCSCompiler.exe
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Antlr3.Runtime.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\EntityFramework.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\EntityFramework.SqlServer.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Newtonsoft.Json.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Owin.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.Helpers.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.Mvc.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.Optimization.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.Razor.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.WebPages.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.WebPages.Razor.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\WebGrease.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Newtonsoft.Json.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.Helpers.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.Mvc.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.Razor.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.WebPages.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.WebPages.Razor.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\System.Web.Optimization.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Antlr3.Runtime.pdb
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\EntityFramework.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\EntityFramework.SqlServer.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\EntityFramework.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\obj\Debug\MvcAuth.I18n_en.resources
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\obj\Debug\MvcAuth.I18n_fr.resources
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\obj\Debug\MvcAuth.csproj.GenerateResource.cache
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\obj\Debug\MvcAuth.csproj.CoreCompileInputs.cache
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\obj\Debug\MvcAuth.csproj.CopyComplete
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\obj\Debug\MvcAuth.dll
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\obj\Debug\MvcAuth.pdb
+C:\Users\Antoine Morin\Desktop\MvcAuth\MvcAuth\obj\Debug\MvcAuth.csprojAssemblyReference.cache
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\MvcAuth.dll.config
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\MvcAuth.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\MvcAuth.pdb
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\csc.exe
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\csc.exe.config
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\csc.rsp
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\csi.exe
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\csi.exe.config
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\csi.rsp
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.AppContext.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Console.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.IO.Compression.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Net.Http.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.ValueTuple.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\vbc.exe
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\vbc.exe.config
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\vbc.rsp
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\VBCSCompiler.exe
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Antlr3.Runtime.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\EntityFramework.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\EntityFramework.SqlServer.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Newtonsoft.Json.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Owin.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.Helpers.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.Mvc.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.Optimization.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.Razor.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.WebPages.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.WebPages.Razor.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\WebGrease.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Newtonsoft.Json.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.Helpers.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.Mvc.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.Razor.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.WebPages.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.WebPages.Razor.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\System.Web.Optimization.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Antlr3.Runtime.pdb
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\EntityFramework.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\EntityFramework.SqlServer.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\EntityFramework.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\obj\Debug\MvcAuth.csprojAssemblyReference.cache
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\obj\Debug\MvcAuth.I18n_en.resources
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\obj\Debug\MvcAuth.I18n_fr.resources
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\obj\Debug\MvcAuth.csproj.GenerateResource.cache
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\obj\Debug\MvcAuth.csproj.CoreCompileInputs.cache
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\obj\Debug\MvcAuth.csproj.CopyComplete
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\obj\Debug\MvcAuth.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\MvcAuth\MvcAuth\obj\Debug\MvcAuth.pdb
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\MvcAuth.dll.config
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\MvcAuth.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\MvcAuth.pdb
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\csc.exe
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\csc.exe.config
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\csc.rsp
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\csi.exe
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\csi.exe.config
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\csi.rsp
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.AppContext.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Console.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.IO.Compression.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Net.Http.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.ValueTuple.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\vbc.exe
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\vbc.exe.config
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\vbc.rsp
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\VBCSCompiler.exe
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Antlr3.Runtime.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\EntityFramework.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\EntityFramework.SqlServer.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Security.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Newtonsoft.Json.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Owin.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.Helpers.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.Mvc.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.Optimization.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.Razor.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.WebPages.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.WebPages.Razor.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\WebGrease.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Security.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Newtonsoft.Json.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.Helpers.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.Mvc.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.Razor.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.WebPages.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.WebPages.Razor.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\System.Web.Optimization.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Antlr3.Runtime.pdb
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\EntityFramework.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\EntityFramework.SqlServer.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\EntityFramework.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\obj\Debug\MvcAuth.csprojAssemblyReference.cache
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\obj\Debug\MvcAuth.I18n_en.resources
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\obj\Debug\MvcAuth.I18n_fr.resources
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\obj\Debug\MvcAuth.csproj.GenerateResource.cache
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\obj\Debug\MvcAuth.csproj.CoreCompileInputs.cache
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\obj\Debug\MvcAuth.csproj.CopyComplete
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\obj\Debug\MvcAuth.dll
+C:\Users\Antoine Morin\Desktop\CESI - Cours\ASP.NET\webApplicationMvcStat\MvcAuth\obj\Debug\MvcAuth.pdb

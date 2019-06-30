@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStatCesiStoreContainer" CdmEntityContainer="ModelStatCesiContainer">
+    <EntitySetMapping Name="AcademySet">
+      <EntityTypeMapping TypeName="IsTypeOf(ModelStatCesi.Academy)">
+        <MappingFragment StoreEntitySet="AcademySet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Area" ColumnName="Area" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StatisticsSet">
+      <EntityTypeMapping TypeName="IsTypeOf(ModelStatCesi.Statistics)">
+        <MappingFragment StoreEntitySet="StatisticsSet">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="AcademyId" ColumnName="AcademyId" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="DateAdded" ColumnName="DateAdded" />
+          <ScalarProperty Name="DateUpdated" ColumnName="DateUpdated" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
