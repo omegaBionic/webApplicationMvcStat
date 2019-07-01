@@ -49,6 +49,21 @@ namespace MvcAuth.Controllers
             return View(statisticsSet.ToList());
         }
 
+        public ActionResult Admin()
+        {
+            bool connected = User.Identity.IsAuthenticated;
+            //var isAdmin = User.IsInRole.isAdmin;
+
+            if (connected )
+            {
+                return View();
+            }
+            else
+            {
+                return RedirectToAction("Index");
+            }
+        }
+
         public ActionResult Contact(string LangCode)
         {   
             string lang = "fr_fr";
