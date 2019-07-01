@@ -52,10 +52,10 @@ namespace MvcAuth.Controllers
             {
                 db.AcademySet.Add(academy);
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Admin", "Home");
             }
 
-            return View(academy);
+            return RedirectToAction("Admin", "Home");
         }
 
         // GET: Academies/Edit/5
@@ -84,7 +84,7 @@ namespace MvcAuth.Controllers
             {
                 db.Entry(academy).State = EntityState.Modified;
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Admin", "Home");
             }
             return View(academy);
         }
@@ -112,7 +112,7 @@ namespace MvcAuth.Controllers
             Academy academy = db.AcademySet.Find(id);
             db.AcademySet.Remove(academy);
             db.SaveChanges();
-            return RedirectToAction("Index");
+            return RedirectToAction("Admin", "Home");
         }
 
         protected override void Dispose(bool disposing)

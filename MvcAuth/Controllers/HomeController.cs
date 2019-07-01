@@ -20,7 +20,7 @@ namespace MvcAuth.Controllers
             var statisticsSet = db.StatisticsSet.Include(s => s.Academy);
             string lang = "fr_fr";
 
-            if(LangCode != null)
+            if (LangCode != null)
                 lang = LangCode;
 
             setI18n(lang);
@@ -28,15 +28,15 @@ namespace MvcAuth.Controllers
             var listBac = (from Statistics in db.StatisticsSet
                            select Statistics.Description).ToList();
             List<string> listBacDistinct = new List<string>();
-            foreach(var elt in listBac)
+            foreach (var elt in listBac)
             {
                 bool isPresent = false;
-                foreach(var elm in listBacDistinct)
+                foreach (var elm in listBacDistinct)
                 {
                     if (elm == elt)
                     {
                         isPresent = true;
-                        
+
                     }
                 }
                 if (!isPresent)
@@ -54,9 +54,20 @@ namespace MvcAuth.Controllers
             bool connected = User.Identity.IsAuthenticated;
             //var isAdmin = User.IsInRole.isAdmin;
 
-            if (connected )
+            if (connected)
             {
-                return View();
+                var statisticsSet = db.StatisticsSet.Include(s => s.Academy).ToList();
+                var academySet = db.AcademySet.ToList();
+
+                List<object> allList = new List<object>()
+                {
+                    statisticsSet,
+                    academySet
+                };
+
+                ViewBag.Stat = statisticsSet;
+                ViewBag.Academy = academySet;
+                return View(allList);
             }
             else
             {
@@ -65,7 +76,7 @@ namespace MvcAuth.Controllers
         }
 
         public ActionResult Contact(string LangCode)
-        {   
+        {
             string lang = "fr_fr";
 
             if (LangCode != null)
@@ -108,7 +119,7 @@ namespace MvcAuth.Controllers
             }
         }
 
-        
+
 
         protected override void Dispose(bool disposing)
         {

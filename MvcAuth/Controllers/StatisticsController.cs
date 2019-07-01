@@ -54,11 +54,11 @@ namespace MvcAuth.Controllers
             {
                 db.StatisticsSet.Add(statistics);
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Admin", "Home");
             }
 
             ViewBag.AcademyId = new SelectList(db.AcademySet, "Id", "Name", statistics.AcademyId);
-            return View(statistics);
+            return RedirectToAction("Admin", "Home");
         }
 
         // GET: Statistics/Edit/5
@@ -88,10 +88,10 @@ namespace MvcAuth.Controllers
             {
                 db.Entry(statistics).State = EntityState.Modified;
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("Admin", "Home");
             }
             ViewBag.AcademyId = new SelectList(db.AcademySet, "Id", "Name", statistics.AcademyId);
-            return View(statistics);
+            return RedirectToAction("Admin", "Home");
         }
 
         // GET: Statistics/Delete/5
@@ -117,7 +117,7 @@ namespace MvcAuth.Controllers
             Statistics statistics = db.StatisticsSet.Find(id);
             db.StatisticsSet.Remove(statistics);
             db.SaveChanges();
-            return RedirectToAction("Index");
+            return RedirectToAction("Admin", "Home");
         }
 
         protected override void Dispose(bool disposing)
