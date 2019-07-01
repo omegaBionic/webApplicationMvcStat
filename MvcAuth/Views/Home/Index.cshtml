@@ -12,6 +12,12 @@
 
 
 <h2>@ViewData["StatTitle"]</h2>
+<audio id="player">
+    <source src="..\Content\nintendo-wii-mii-channel-theme.mp3" type="audio/mpeg">
+</audio>
+<audio id="playerPoumPoumPoum">
+    <source src="..\Content\HEYYEYAAEYAAAEYAEYAA.mp3" type="audio/mpeg">
+</audio>
 <div id="jsGrid"></div>
 <table id="tb_hidden" hidden="hidden">
     @foreach (var item in Model)
@@ -60,7 +66,7 @@
         </th>
 
     </tr>
-</table>    
+</table>
 <p>
     @ViewData["Introduction"]
 
@@ -92,6 +98,27 @@
 
 
 <script>
+    this.playBG();
+    //document.onclick =
+    function playBG() {
+        var play = document.getElementById("player");
+        play.volume = 0.2;
+        play.play();
+    }
+    document.onclick = playPoumPoumPoum;
+        function playPoumPoumPoum() {
+            var play = document.getElementById("playerPoumPoumPoum");
+            play.currentTime = 10;
+            play.volume = 1;
+            play.play();
+
+            setTimeout(function () {
+                var play = document.getElementById("playerPoumPoumPoum");
+                play.currentTime = 0;
+                
+                play.pause();
+            }, 1300);
+    }
     var listBeforeSort = document.getElementById("tb_hidden");
     function sortByResult() {
         var htmlToShow = "";
