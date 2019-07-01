@@ -129,8 +129,17 @@
   <data name="ContactUS" xml:space="preserve">
     <value>Contact us</value>
   </data>
+  <data name="Filter" xml:space="preserve">
+    <value>Filter</value>
+  </data>
   <data name="Introduction" xml:space="preserve">
     <value>The official results of the exams - under license from the Ministry of Education - directly related to the publications of the academies. From the official publication of the results by the academies we publish on our website the list of candidates and their results.</value>
+  </data>
+  <data name="Max" xml:space="preserve">
+    <value>and that</value>
+  </data>
+  <data name="Min" xml:space="preserve">
+    <value>Between that</value>
   </data>
   <data name="Result" xml:space="preserve">
     <value>Results</value>

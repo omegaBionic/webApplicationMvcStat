@@ -104,6 +104,9 @@ namespace MvcAuth.Controllers
                     ViewData["Contact"] = I18n_fr.ContactUS;
                     ViewData["Introduction"] = I18n_fr.Intrdoduction;
                     ViewData["Score"] = I18n_fr.Score;
+                    //ViewData["Filter"] = I18n_fr.Filter;
+                    //ViewData["Min"] = I18n_fr.Min;
+                    //ViewData["Max"] = I18n_fr.Max;
                     break;
                 case "en_en":
                     ViewData["StatTitle"] = I18n_en.StatTitle;
@@ -113,6 +116,9 @@ namespace MvcAuth.Controllers
                     ViewData["Contact"] = I18n_en.ContactUS;
                     ViewData["Introduction"] = I18n_en.Introduction;
                     ViewData["Score"] = I18n_en.Score;
+                    //ViewData["Filter"] = I18n_en.Filter;
+                    //ViewData["Min"] = I18n_en.Min;
+                    //ViewData["Max"] = I18n_en.Max;
                     break;
                 default:
                     break;

@@ -129,8 +129,17 @@
   <data name="ContactUS" xml:space="preserve">
     <value>Nous contacter</value>
   </data>
+  <data name="Filter" xml:space="preserve">
+    <value>Filtrer</value>
+  </data>
   <data name="Intrdoduction" xml:space="preserve">
     <value>Les résultats officiels des examens - sous licence du Ministère de l'Education - en lien direct avec les publications des académies. Dès la publication officielle des résultats par les académies nous publions sur notre site la liste des candidats et leur résultat.</value>
+  </data>
+  <data name="Max" xml:space="preserve">
+    <value>Borne maximale</value>
+  </data>
+  <data name="Min" xml:space="preserve">
+    <value>Borne minimale</value>
   </data>
   <data name="Result" xml:space="preserve">
     <value>Résultats</value>
